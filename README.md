@@ -1,4 +1,7 @@
 # Grassland-Management-Under-Climate-Change-Final
+
+[![DOI](https://zenodo.org/badge/732504634.svg)](https://zenodo.org/doi/10.5281/zenodo.10397683)
+
 Taylor O'Brien's final project for Earth Analytics Data Bootcamp. Grasslands are moving northward with a changing climate and it is important to track how grassland suitability is changing. This project looks at Sorghastrum Nutans, a grass native to North America and how the suitability in two Colorado National Grasslands (Pawnee National Grassland and Cimarron National Grassland) will change in the year 2050 under RCP 4.5 and RCP 8.5.
 
 There are three notebooks in this repository. First, there is the Overview-with-writeup that includes all of the written work for the project. This explains the background and purpose of the topic, site description, data description, model description, and citations for information and data.
